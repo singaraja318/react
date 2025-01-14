@@ -1,63 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+# React Price Card Task
 
-<p align="left">My name is Prakash V S and I made a website with price cards using React. It's from the Guvi-Zen class Roadmap, specifically React: Day-2 Task. This project is my first time working with React!</p>
+![Preview](src/Img/demo.png)
 
-###
 
- <p align="1eft">Demo : https://price-card-using-react-js.netlify.app</p> 
+A React.js application aims to display a dynamic price card interface using React.js and JSX. It provides a dynamic layout for showcasing pricing information.
 
-###
+## Features
+- **Dynamic Rendering:** Utilizes React components and JSX to dynamically display price card information.
+- **Responsive Design:** Ensures the price cards adapt well across various screen sizes.
+- **Component-Based Structure:** Organizes the UI into reusable React components for clarity and maintainability.
+- **Fast Refresh:** Utilizes Vite's fast refresh feature for instant feedback during development.
 
-<h2 align="left">About</h2>
+## Technologies Used
+- **React.js:** Front-end library for building user interfaces.
+- **Vite:** Next-generation front-end tooling with fast refresh and optimized build.
+- **JSX:** Syntax extension for JavaScript used with React for templating.
+- **CSS (or Styled Components):** Styles the components for a visually appealing design.
 
-###
+## How to Use
+1. Clone the repository: `git clone https://github.com/your/repository.git`
+2. Navigate to the project directory: `cd react-pricecard-task`
+3. Install dependencies: `npm install`
+4. Start the application: `npm start`
+5. Open your browser and go to `http://localhost:3000`
 
-<p align="left">📚 Here I Created a Price card in React JS <br>📚 Using React components And Props <br>📚 And Imported to GitHub Using Git<br>📚 Deployed my web application in Netlify</p>
+---
+## Conclusion
 
-###
+This project demonstrates the implementation of a dynamic price card interface using React.js and JSX. It aims to provide a flexible and interactive way to showcase pricing information in web applications.
 
-<h2 align="left">I code with</h2>
+For any questions or feedback, feel free to contact me at rajkumaranbu192@gmail.com
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h2 align="left">Tools used</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-</div>
-
-###
-
-<h2 align="left">Screen shoot</h2>
-
-###
-
-<img
-  style="border: 1px solid rgba(100, 100, 100, 1); border-radius: 4px; box-shadow: 0px 0px 39px 14px rgba(255, 255, 255, 1);"
-  align="left"
-  src="https://github.com/Prakash-V-S/Price-card-using-React-JS/assets/141955456/54e39809-b576-4227-9ca9-779b6cb95a69"
-/>
-
-###
